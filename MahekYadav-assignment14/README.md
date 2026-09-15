@@ -2,7 +2,6 @@
 
 A real-time multiplayer trivia battle built with Node.js, Express.js, Socket.io, CORS and an in-memory game state engine.
 
-Live link: https://quiz-socket-57r2.onrender.com
 
 ## Features
 
